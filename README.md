@@ -1,8 +1,6 @@
 # Base on CNN-Recognize cat and dog
-
-website
-====
 You can access this [website](https://catdogrecognition.herokuapp.com/) and throw some dog and cat picture to it.
+If you have any question, commit issue or send message to me.
 
 
 ### example
